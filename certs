@@ -1,1 +1,4 @@
-
+#hướng dẫn active FastPanel local
+step 1: đổi tên giấy phép gốc
+`Đổi tên giấy phép fastpanel.cert -> fastpanel`
+step 2: dán key đã mua từ admin fastvnteam vào file fastpanel -> active
