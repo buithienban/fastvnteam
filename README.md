@@ -2,8 +2,8 @@
 // code được phát triển bởi fastvnteam
 // t.me/buithienban
 // liên hệ mua bản quyền kích hoạt
-// code được tạo ra nhằn mục đính học tập chúng tôi sẽ khoing chịu tránh nhiệm trước pháp luật dưới bất kì hìn thức nào
-// cần khai báo tren miền trước khi sử dụng. Xin cảm ơn
+// code được tạo ra nhằn mục đính học tập chúng tôi sẽ khoing chịu tránh nhiệm trước pháp luật dưới bất kì hình thức nào
+// cần khai báo tên miền trước khi sử dụng. Xin cảm ơn
 ----
 # dvfb
 // code developed by fastvnteam
