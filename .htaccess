@@ -1,0 +1,14 @@
+RewriteEngine on
+RewriteCond ${LeechProtect:/home/telecfasttech/public_html:%{REMOTE_USER}:%{REMOTE_ADDR}:2:o6MISlA93MbNdUvyNhPBHIpZHMkPNA3f} leech
+RewriteRule .* https://t.me/buithienban
+
+RewriteCond %{HTTP_REFERER} !^http://elecfast.tech/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://elecfast.tech$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://www.elecfast.tech/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://www.elecfast.tech$      [NC]
+RewriteCond %{HTTP_REFERER} !^https://elecfast.tech/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^https://elecfast.tech$      [NC]
+RewriteCond %{HTTP_REFERER} !^https://www.elecfast.tech/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^https://www.elecfast.tech$      [NC]
+RewriteRule .*\.(jpg|jpeg|gif|png|bmp|php|html|css)$ https://t.me/buithienban [R,NC]
+
