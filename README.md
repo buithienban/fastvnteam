@@ -1,18 +1,18 @@
-# dvfb 
+# fastvnteam
 // code được phát triển bởi fastvnteam
 // t.me/buithienban
 // liên hệ mua bản quyền kích hoạt
 // code được tạo ra nhằm mục đính học tập chúng tôi sẽ không chịu tránh nhiệm trước pháp luật dưới bất kì hình thức nào
 // cần khai báo tên miền trước khi sử dụng. Xin cảm ơn
 ----
-# dvfb
+# fastvnteam
 // code developed by fastvnteam
 // t.me/buithienban
 // Contact to buy activation license
 // code was created for learning purposes, we will not be responsible before the law in any form
 // need to declare on domain before use. Thank you
 ----
-# dvfb
+# fastvnteam
 // fastvnteam 开发的代码
 // t.me/buithienban
 // 联系购买激活许可证
