@@ -10,9 +10,9 @@
         <!-- Loại nội dung. Trong trường hợp này, nó là một trang web -->
         <meta property="og:type" content="website">
         <!-- Tiêu đề của trang web -->
-        <meta property="og:title" content="Phạm Hồng Thái ">
+        <meta property="og:title" content="FASTVNTEAM ">
         <!-- Mô tả nội dung của trang web -->
-        <meta name="description" content="Phạm Hồng Thái ">
+        <meta name="description" content="FASTVNTEAM ">
         <!-- Mô tả trang web dành cho các công cụ tìm kiếm -->
         <meta property="og:description" content="Hệ thống share ID APPLE miễn phí">
         <!-- Từ khóa liên quan đến nội dung trang web -->
