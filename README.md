@@ -1,5 +1,5 @@
 # fastvnteam
-// code được phát triển bởi fastvnteam
+// code được phát triển bởi fastvnteam x buithienban
 // t.me/buithienban
 // liên hệ mua bản quyền kích hoạt
 // code được tạo ra nhằm mục đính học tập chúng tôi sẽ không chịu tránh nhiệm trước pháp luật dưới bất kì hình thức nào
